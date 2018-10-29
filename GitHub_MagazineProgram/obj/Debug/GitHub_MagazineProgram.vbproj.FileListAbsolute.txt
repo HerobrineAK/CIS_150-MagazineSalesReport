@@ -1,0 +1,11 @@
+O:\GitHub Projects\GitHub_MagazineProgram\GitHub_MagazineProgram\bin\Debug\GitHub_MagazineProgram.exe.config
+O:\GitHub Projects\GitHub_MagazineProgram\GitHub_MagazineProgram\bin\Debug\GitHub_MagazineProgram.exe
+O:\GitHub Projects\GitHub_MagazineProgram\GitHub_MagazineProgram\bin\Debug\GitHub_MagazineProgram.pdb
+O:\GitHub Projects\GitHub_MagazineProgram\GitHub_MagazineProgram\bin\Debug\GitHub_MagazineProgram.xml
+O:\GitHub Projects\GitHub_MagazineProgram\GitHub_MagazineProgram\obj\Debug\GitHub_MagazineProgram.vbprojAssemblyReference.cache
+O:\GitHub Projects\GitHub_MagazineProgram\GitHub_MagazineProgram\obj\Debug\GitHub_MagazineProgram.Resources.resources
+O:\GitHub Projects\GitHub_MagazineProgram\GitHub_MagazineProgram\obj\Debug\GitHub_MagazineProgram.vbproj.GenerateResource.cache
+O:\GitHub Projects\GitHub_MagazineProgram\GitHub_MagazineProgram\obj\Debug\GitHub_MagazineProgram.vbproj.CoreCompileInputs.cache
+O:\GitHub Projects\GitHub_MagazineProgram\GitHub_MagazineProgram\obj\Debug\GitHub_MagazineProgram.exe
+O:\GitHub Projects\GitHub_MagazineProgram\GitHub_MagazineProgram\obj\Debug\GitHub_MagazineProgram.xml
+O:\GitHub Projects\GitHub_MagazineProgram\GitHub_MagazineProgram\obj\Debug\GitHub_MagazineProgram.pdb
